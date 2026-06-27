@@ -1,0 +1,5 @@
+name: NextEcocompatibility
+version: 1.0
+main: com.next.ecocompatibility.NextEcocompatibility
+api-version: 1.13
+depend: [EcoEnchants]
